@@ -1,0 +1,1 @@
+# factory-yields-early-warnings
